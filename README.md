@@ -12,10 +12,10 @@ chmod 777 VboxMod.sh
 ```
 To set the values
 ``` shell
-VboxMod.sh -s
+./VboxMod.sh -s
 ```
 
 To re-set the values
 ``` shell
-VboxMod.sh -r
+./VboxMod.sh -r
 ```
