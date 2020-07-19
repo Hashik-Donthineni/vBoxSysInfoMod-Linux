@@ -19,3 +19,6 @@ To re-set the values
 ``` shell
 ./VboxMod.sh -r
 ```
+
+## Don't forget to close both VBox Guest Additions Service, tray icon using task-bar manager.
+It is only used in the OS start-up so it's safe to close them.
